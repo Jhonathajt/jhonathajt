@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![jhonathajt GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathajt&show_icons=true&theme=dracula)
+![jhonathajt GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathajt&show_icons=true&theme=dark)
 
 
 
